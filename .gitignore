@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# SQLite database file
+database.db
+
+# Flask secret key
+instance/
+
+# Environment variables
+.env
